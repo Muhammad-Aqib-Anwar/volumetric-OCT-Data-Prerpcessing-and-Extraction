@@ -52,9 +52,9 @@ Designed around Heidelberg/HEYEX .vol exports (OCT).
 
 Make sure you have the necessary MATLAB toolboxes for image I/O/visualization if you plan to review frames inside MATLAB.
 
-## MS vs Control (side-by-side)
+## MS vs Control
 
 | MS | Control |
 |---|---|
-| ![MS](output/extracted_frames_MS/ms01_spectralis_macula_v1_s1_R_frame_001.png) | ![Control](output/extracted_frames_Control/hc01_spectralis_macula_v1_s1_R_frame_001.png) |
+| ![MS](output/extracted_frames_MS/ms01_spectralis_macula_v1_s1_R/ms01_spectralis_macula_v1_s1_R_frame_001.png) | ![Control](output/extracted_frames_Control/hc01_spectralis_macula_v1_s1_R/hc01_spectralis_macula_v1_s1_R_frame_001.png) |
 
