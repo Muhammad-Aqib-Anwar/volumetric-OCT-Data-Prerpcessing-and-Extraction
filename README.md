@@ -10,14 +10,14 @@ Utilities to extract all OCT B-scan frames from Heidelberg/HEYEX .vol files and 
 project-root/
 |-- data/
 |   |-- MS/                       # put all MS .vol files here
-|   `-- Control/                  # put all Control .vol files here
+|   |-- Control/                  # put all Control .vol files here
 |-- output/
 |   |-- extracted_frames_MS/      # extracted MS frames
-|   `-- extracted_frames_Control/ # extracted Control frames
+|   |-- extracted_frames_Control/ # extracted Control frames
 |-- openval.m                     # reads .vol, builds frames + metadata, preprocessing
 |-- saveBscanFrames.m             # writes frames to the output folders
 |-- processMultipleVolFiles.m     # batch runner for many .vol files
-`-- README.md
+|-- README.md
 ```
 # How it works
 ## openval.m
