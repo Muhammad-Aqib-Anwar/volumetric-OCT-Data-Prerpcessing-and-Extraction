@@ -54,4 +54,18 @@ project-root/
 ## MS vs Control
 ![Multiple Sclerosis](https://github.com/Muhammad-Aqib-Anwar/volumetric-OCT-Data-Prerpcessing-and-Extraction/blob/main/Extracted%20frames%20MS/ms01_spectralis_macula_v1_s1_R/ms01_spectralis_macula_v1_s1_R_frame_001.png?raw=true)
 ![Control](https://github.com/Muhammad-Aqib-Anwar/volumetric-OCT-Data-Prerpcessing-and-Extraction/blob/main/Extracted%20frames%20Control/hc01_spectralis_macula_v1_s1_R/hc01_spectralis_macula_v1_s1_R_frame_001.png?raw=true)
+## Example Frames
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/Muhammad-Aqib-Anwar/volumetric-OCT-Data-Prerpcessing-and-Extraction/blob/main/Extracted%20frames%20MS/ms01_spectralis_macula_v1_s1_R/ms01_spectralis_macula_v1_s1_R_frame_001.png?raw=true" width="360"><br/>
+      <sub><b>Multiple Sclerosis</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://github.com/Muhammad-Aqib-Anwar/volumetric-OCT-Data-Prerpcessing-and-Extraction/blob/main/Extracted%20frames%20Control/hc01_spectralis_macula_v1_s1_R/hc01_spectralis_macula_v1_s1_R_frame_001.png?raw=true" width="360"><br/>
+      <sub><b>Control</b></sub>
+    </td>
+  </tr>
+</table>
 
