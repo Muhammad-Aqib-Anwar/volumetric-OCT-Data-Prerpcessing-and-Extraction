@@ -55,5 +55,5 @@ project-root/
 
 | MS | Control |
 |---|---|
-| ![MS](output/extracted_frames_MS/ms01_spectralis_macula_v1_s1_R/ms01_spectralis_macula_v1_s1_R_frame_001.png) | ![Control](output/extracted_frames_Control/hc01_spectralis_macula_v1_s1_R/hc01_spectralis_macula_v1_s1_R_frame_001.png) |
+| ![MS](Extracted_frames_MS/ms01_spectralis_macula_v1_s1_R/ms01_spectralis_macula_v1_s1_R_frame_001.png) | ![Control](Extracted_frames_Control/hc01_spectralis_macula_v1_s1_R/hc01_spectralis_macula_v1_s1_R_frame_001.png) |
 
