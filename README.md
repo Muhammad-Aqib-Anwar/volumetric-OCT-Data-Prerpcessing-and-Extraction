@@ -19,7 +19,7 @@ project-root/
   ├─ processMultipleVolFiles.m      # batch runner for many .vol files
   └─ README.md
 
-#How it works
+# How it works
 
 openval.m
 Reads a .vol file, prepares all B-scan frames and metadata, and applies the required preprocessing.
