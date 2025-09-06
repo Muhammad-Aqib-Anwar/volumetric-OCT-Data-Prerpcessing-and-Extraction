@@ -6,7 +6,7 @@ Utilities to extract all OCT B-scan frames from Heidelberg/HEYEX .vol files and 
 - Saves frames into class-specific folders (MS / Control)
 - Preprocesses and returns metadata for downstream analysis
 - Batch processing over multiple .vol files
-- 
+
 project-root/
 ├─ data/
 │ ├─ MS/ # put all MS .vol files here
