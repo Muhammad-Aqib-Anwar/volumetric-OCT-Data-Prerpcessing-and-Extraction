@@ -51,15 +51,12 @@ project-root/
 
 - Make sure you have the necessary MATLAB toolboxes for image I/O/visualization if you plan to review frames inside MATLAB.
 
-## MS vs Control
-![Multiple Sclerosis](https://github.com/Muhammad-Aqib-Anwar/volumetric-OCT-Data-Prerpcessing-and-Extraction/blob/main/Extracted%20frames%20MS/ms01_spectralis_macula_v1_s1_R/ms01_spectralis_macula_v1_s1_R_frame_001.png?raw=true)
-![Control](https://github.com/Muhammad-Aqib-Anwar/volumetric-OCT-Data-Prerpcessing-and-Extraction/blob/main/Extracted%20frames%20Control/hc01_spectralis_macula_v1_s1_R/hc01_spectralis_macula_v1_s1_R_frame_001.png?raw=true)
 ## Example Frames
 
 <table>
   <tr>
     <td align="center">
-      <img src="https://github.com/Muhammad-Aqib-Anwar/volumetric-OCT-Data-Prerpcessing-and-Extraction/blob/main/Extracted%20frames%20MS/ms01_spectralis_macula_v1_s1_R/ms01_spectralis_macula_v1_s1_R_frame_001.png?raw=true" width="360"><br/>
+      <img src="https://github.com/Muhammad-Aqib-Anwar/volumetric-OCT-Data-Prerpcessing-and-Extraction/blob/main/Extracted%20frames%20MS/ms01_spectralis_macula_v1_s1_R/ms01_spectralis_macula_v1_s1_R_frame_002.png?raw=true?raw=true" width="360"><br/>
       <sub><b>Multiple Sclerosis</b></sub>
     </td>
     <td align="center">
