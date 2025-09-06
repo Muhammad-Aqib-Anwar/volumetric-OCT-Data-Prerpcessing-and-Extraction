@@ -56,3 +56,4 @@ project-root/
 |---|---|
 | ![MS](Extracted_frames_MS/ms01_spectralis_macula_v1_s1_R_frame_001.png) | ![Control](Extracted_frames_Control/hc01_spectralis_macula_v1_s1_R_frame_001.png) |
 
+![alt text]([https://github.com/[username]/[reponame]/blob/[branch]/image.jpg](https://github.com/Muhammad-Aqib-Anwar/volumetric-OCT-Data-Prerpcessing-and-Extraction/blob/main/Extracted%20frames%20Control/hc01_spectralis_macula_v1_s1_R/hc01_spectralis_macula_v1_s1_R_frame_001.png)?raw=true)
