@@ -31,25 +31,25 @@ project-root/
 
 # Usage
 
-Place your .vol files under:
+- Place your .vol files under:
 
-data/MS/ for MS subjects
+- data/MS/ for MS subjects
 
-data/Control/ for control subjects
+- data/Control/ for control subjects
 
-Run the batch processor twice—once per class—so frames land in:
+- Run the batch processor twice—once per class—so frames land in:
 
-output/extracted_frames_MS/
+- output/extracted_frames_MS/
 
-output/extracted_frames_Control/
+- output/extracted_frames_Control/
 
-Inspect results with your preferred image viewer or MATLAB apps (e.g., Volume Viewer).
+- Inspect results with your preferred image viewer or MATLAB apps (e.g., Volume Viewer).
 
 # Notes
 
-Designed around Heidelberg/HEYEX .vol exports (OCT).
+- Designed around Heidelberg/HEYEX .vol exports (OCT).
 
-Make sure you have the necessary MATLAB toolboxes for image I/O/visualization if you plan to review frames inside MATLAB.
+- Make sure you have the necessary MATLAB toolboxes for image I/O/visualization if you plan to review frames inside MATLAB.
 
 ## MS vs Control
 
