@@ -2,24 +2,32 @@
 Utilities to extract all OCT B-scan frames from Heidelberg/HEYEX .vol files and organize them into separate MS and Control sets. The toolkit also prepares basic metadata and preprocessing outputs.
 
 # Features
-.Extracts every B-scan frame from each .vol file
-.Saves frames into class-specific folders (MS / Control)
-.Preprocesses and returns metadata for downstream analysis
-.Batch processing over multiple .vol files
-
-mkdir -p project-root/{data/{MS,Control},output/{extracted_frames_MS,extracted_frames_Control}}
-touch project-root/{openval.m,saveBscanFrames.m,processMultipleVolFiles.m,README.md}
+- Extracts every B-scan frame from each .vol file
+- Saves frames into class-specific folders (MS / Control)
+- Preprocesses and returns metadata for downstream analysis
+- Batch processing over multiple .vol files
+- 
+project-root/
+├─ data/
+│ ├─ MS/ # put all MS .vol files here
+│ └─ Control/ # put all Control .vol files here
+├─ output/
+│ ├─ extracted_frames_MS/ # extracted MS frames
+│ └─ extracted_frames_Control/ # extracted Control frames
+├─ openval.m # reads .vol, builds frames + metadata, preprocessing
+├─ saveBscanFrames.m # writes frames to the output folders
+├─ processMultipleVolFiles.m # batch runner for many .vol files
+└─ README.md
 
 # How it works
+## openval.m
+- Reads a .vol file, prepares all B-scan frames and metadata, and applies the required preprocessing.
 
-- openval.m
-Reads a .vol file, prepares all B-scan frames and metadata, and applies the required preprocessing.
+## saveBscanFrames.m
+- Saves frames to the proper output directory (MS or Control), creating subfolders as needed.
 
-saveBscanFrames.m
-Saves frames to the proper output directory (MS or Control), creating subfolders as needed.
-
-processMultipleVolFiles.m
-Finds all .vol files under a given input folder and runs the end-to-end pipeline (calls openval → saveBscanFrames) for each file.
+## processMultipleVolFiles.m
+- Finds all .vol files under a given input folder and runs the end-to-end pipeline (calls openval → saveBscanFrames) for each file.
 
 # Usage
 
