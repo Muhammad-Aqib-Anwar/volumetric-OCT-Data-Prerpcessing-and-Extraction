@@ -8,16 +8,16 @@ Utilities to extract all OCT B-scan frames from Heidelberg/HEYEX .vol files and 
 - Batch processing over multiple .vol files
 
 project-root/
-├─ data/
-│ ├─ MS/ # put all MS .vol files here
-│ └─ Control/ # put all Control .vol files here
-├─ output/
-│ ├─ extracted_frames_MS/ # extracted MS frames
-│ └─ extracted_frames_Control/ # extracted Control frames
-├─ openval.m # reads .vol, builds frames + metadata, preprocessing
-├─ saveBscanFrames.m # writes frames to the output folders
-├─ processMultipleVolFiles.m # batch runner for many .vol files
-└─ README.md
+|-- data/
+|   |-- MS/                       # put all MS .vol files here
+|   `-- Control/                  # put all Control .vol files here
+|-- output/
+|   |-- extracted_frames_MS/      # extracted MS frames
+|   `-- extracted_frames_Control/ # extracted Control frames
+|-- openval.m                     # reads .vol, builds frames + metadata, preprocessing
+|-- saveBscanFrames.m             # writes frames to the output folders
+|-- processMultipleVolFiles.m     # batch runner for many .vol files
+`-- README.md
 
 # How it works
 ## openval.m
@@ -52,7 +52,6 @@ project-root/
 - Make sure you have the necessary MATLAB toolboxes for image I/O/visualization if you plan to review frames inside MATLAB.
 
 ## MS vs Control
-
 | MS | Control |
 |---|---|
 | ![MS](Extracted_frames_MS/ms01_spectralis_macula_v1_s1_R/ms01_spectralis_macula_v1_s1_R_frame_001.png) | ![Control](Extracted_frames_Control/hc01_spectralis_macula_v1_s1_R/hc01_spectralis_macula_v1_s1_R_frame_001.png) |
