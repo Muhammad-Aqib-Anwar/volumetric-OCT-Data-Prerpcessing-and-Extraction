@@ -56,7 +56,7 @@ project-root/
 <table>
   <tr>
     <td align="center">
-      <img src="https://github.com/Muhammad-Aqib-Anwar/volumetric-OCT-Data-Prerpcessing-and-Extraction/blob/main/Extracted%20frames%20MS/ms01_spectralis_macula_v1_s1_R/ms01_spectralis_macula_v1_s1_R_frame_002.png?raw=true?raw=true" width="360"><br/>
+      <img src="https://github.com/Muhammad-Aqib-Anwar/volumetric-OCT-Data-Prerpcessing-and-Extraction/blob/main/Extracted%20frames%20MS/ms01_spectralis_macula_v1_s1_R/ms01_spectralis_macula_v1_s1_R_frame_048.png?raw=true" width="360"><br/>
       <sub><b>Multiple Sclerosis</b></sub>
     </td>
     <td align="center">
