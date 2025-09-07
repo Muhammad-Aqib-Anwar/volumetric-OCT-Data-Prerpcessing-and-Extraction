@@ -56,11 +56,11 @@ project-root/
 <table>
   <tr>
     <td align="center">
-      <img src="https://github.com/Muhammad-Aqib-Anwar/volumetric-OCT-Data-Prerpcessing-and-Extraction/blob/main/Extracted%20frames%20MS/ms01_spectralis_macula_v1_s1_R/ms01_spectralis_macula_v1_s1_R_frame_026.png?raw=true" width="360" height="360" ><br/>
+      <img src="https://github.com/Muhammad-Aqib-Anwar/volumetric-OCT-Data-Prerpcessing-and-Extraction/blob/main/Extracted%20frames%20MS/ms01_spectralis_macula_v1_s1_R/ms01_spectralis_macula_v1_s1_R_frame_011.png?raw=true" width="360" height="360" ><br/>
       <sub><b>Multiple Sclerosis</b></sub>
     </td>
     <td align="center">
-      <img src="https://github.com/Muhammad-Aqib-Anwar/volumetric-OCT-Data-Prerpcessing-and-Extraction/blob/main/Extracted%20frames%20Control/hc01_spectralis_macula_v1_s1_R/hc01_spectralis_macula_v1_s1_R_frame_021.png?raw=true" width="360" height="360" ><br/>
+      <img src="https://github.com/Muhammad-Aqib-Anwar/volumetric-OCT-Data-Prerpcessing-and-Extraction/blob/main/Extracted%20frames%20Control/hc01_spectralis_macula_v1_s1_R/hc01_spectralis_macula_v1_s1_R_frame_032.png?raw=true" width="360" height="360" ><br/>
       <sub><b>Control</b></sub>
     </td>
   </tr>
